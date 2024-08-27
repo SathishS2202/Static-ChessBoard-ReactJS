@@ -1,0 +1,2 @@
+table{border:10px solid #000;border-collapse:collapse;margin:auto}td{font-size:32px;height:55px;padding:10px;text-align:center;transition:background-color .3s ease,transform .3s ease;vertical-align:middle;width:90px}td:hover{border:5px solid orange;cursor:pointer;transform:scale(1.05)}.light{background-color:#fff}.dark{background-color:green}.dark:hover,.light:hover{background-color:#90ee90}
+/*# sourceMappingURL=main.78470cf8.css.map*/
