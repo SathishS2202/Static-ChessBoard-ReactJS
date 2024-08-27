@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+    border: 10px solid black; 
+}
+
+td {
+    width: 90px;
+    padding: 10px;
+    font-size: 32px;
+    height: 55px;
+    text-align: center;
+    vertical-align: middle;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+td:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    border: 5px solid orange;
+}
+
+.light {
+    background-color: white;
+}
+
+.dark {
+    background-color: green;
+}
+
+.light:hover, .dark:hover {
+    background-color: lightgreen;
+}
